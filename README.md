@@ -13,5 +13,5 @@
 
 ___
 
-__Check it's working [here](https://terminal-portfolio-nitin.netlify.app)
+__Check it's working [here](https://terminal-portfolio-nitin.netlify.app)  
 __You can star mark this project if you liked it__
